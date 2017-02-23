@@ -25,5 +25,6 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="ej.sample" />
+	<annotation-driven/>
 	
 </beans:beans>

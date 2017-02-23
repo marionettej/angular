@@ -2,5 +2,13 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 
 <properties>
-
+	<!-- [S] DB account -->
+	<entry key="db.user">curo</entry>
+	<entry key="db.pwd">Db123!@#</entry>
+	<!--[S] test DB -->
+	<entry key="db.test.ip">192.168.1.207</entry>
+	<entry key="db.test.port">3306</entry>
+	<entry key="db.test.db">db_test</entry>
+	<entry key="db.test.init">2</entry>
+	<entry key="db.test.max">8</entry>
 </properties>
