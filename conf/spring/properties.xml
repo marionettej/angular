@@ -3,8 +3,8 @@
 
 <properties>
 	<!-- [S] DB account -->
-	<entry key="db.user">curo</entry>
-	<entry key="db.pwd">Db123!@#</entry>
+	<entry key="db.user">test</entry>
+	<entry key="db.pwd">test123!@#</entry>
 	<!--[S] test DB -->
 	<entry key="db.test.ip">192.168.1.207</entry>
 	<entry key="db.test.port">3306</entry>
