@@ -1,2 +1,2 @@
-# angular
-init angular sample
+# AngularJS
+AngularJS sample
